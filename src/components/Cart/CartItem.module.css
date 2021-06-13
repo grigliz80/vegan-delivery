@@ -60,10 +60,6 @@
 
 .cart-item button:hover,
 .cart-item button:active {
-  background-color: #64CC64;
+  background-color: #aaa;
   color: white;
-}
-
-button.minus:hover {
-  background-color: #FF7D7D;
 }
