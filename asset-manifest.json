@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/vegan-delivery/static/css/main.d878868d.chunk.css",
-    "main.js": "/vegan-delivery/static/js/main.9fe6171d.chunk.js",
-    "main.js.map": "/vegan-delivery/static/js/main.9fe6171d.chunk.js.map",
+    "main.js": "/vegan-delivery/static/js/main.5c633de2.chunk.js",
+    "main.js.map": "/vegan-delivery/static/js/main.5c633de2.chunk.js.map",
     "runtime-main.js": "/vegan-delivery/static/js/runtime-main.ab5936c3.js",
     "runtime-main.js.map": "/vegan-delivery/static/js/runtime-main.ab5936c3.js.map",
     "static/js/2.f1137610.chunk.js": "/vegan-delivery/static/js/2.f1137610.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.ab5936c3.js",
     "static/js/2.f1137610.chunk.js",
     "static/css/main.d878868d.chunk.css",
-    "static/js/main.9fe6171d.chunk.js"
+    "static/js/main.5c633de2.chunk.js"
   ]
 }
