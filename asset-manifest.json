@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/vegan-delivery/static/css/main.d878868d.chunk.css",
+    "main.js": "/vegan-delivery/static/js/main.9fe6171d.chunk.js",
+    "main.js.map": "/vegan-delivery/static/js/main.9fe6171d.chunk.js.map",
+    "runtime-main.js": "/vegan-delivery/static/js/runtime-main.ab5936c3.js",
+    "runtime-main.js.map": "/vegan-delivery/static/js/runtime-main.ab5936c3.js.map",
+    "static/js/2.f1137610.chunk.js": "/vegan-delivery/static/js/2.f1137610.chunk.js",
+    "static/js/2.f1137610.chunk.js.map": "/vegan-delivery/static/js/2.f1137610.chunk.js.map",
+    "index.html": "/vegan-delivery/index.html",
+    "static/css/main.d878868d.chunk.css.map": "/vegan-delivery/static/css/main.d878868d.chunk.css.map",
+    "static/js/2.f1137610.chunk.js.LICENSE.txt": "/vegan-delivery/static/js/2.f1137610.chunk.js.LICENSE.txt",
+    "static/media/meals.f85b9c38.jpg": "/vegan-delivery/static/media/meals.f85b9c38.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ab5936c3.js",
+    "static/js/2.f1137610.chunk.js",
+    "static/css/main.d878868d.chunk.css",
+    "static/js/main.9fe6171d.chunk.js"
+  ]
+}
