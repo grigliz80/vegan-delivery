@@ -34,7 +34,7 @@ const MealItemForm = props => {
                     defaultValue: '1'
                 }} />
                 <br/>
-            <button>Беру</button>
+            <button>Додати</button>
             {!amountIsValid && <p>Уведіть правильну к-сть (1 - 5)</p>}
         </form>
     )
